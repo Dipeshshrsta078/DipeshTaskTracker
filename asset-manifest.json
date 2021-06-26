@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DipeshTaskTracker/static/css/main.ab84150c.chunk.css",
+    "main.js": "/DipeshTaskTracker/static/js/main.405df484.chunk.js",
+    "main.js.map": "/DipeshTaskTracker/static/js/main.405df484.chunk.js.map",
+    "runtime-main.js": "/DipeshTaskTracker/static/js/runtime-main.4c369656.js",
+    "runtime-main.js.map": "/DipeshTaskTracker/static/js/runtime-main.4c369656.js.map",
+    "static/js/2.e133a0f2.chunk.js": "/DipeshTaskTracker/static/js/2.e133a0f2.chunk.js",
+    "static/js/2.e133a0f2.chunk.js.map": "/DipeshTaskTracker/static/js/2.e133a0f2.chunk.js.map",
+    "static/js/3.99c96719.chunk.js": "/DipeshTaskTracker/static/js/3.99c96719.chunk.js",
+    "static/js/3.99c96719.chunk.js.map": "/DipeshTaskTracker/static/js/3.99c96719.chunk.js.map",
+    "index.html": "/DipeshTaskTracker/index.html",
+    "static/css/main.ab84150c.chunk.css.map": "/DipeshTaskTracker/static/css/main.ab84150c.chunk.css.map",
+    "static/js/2.e133a0f2.chunk.js.LICENSE.txt": "/DipeshTaskTracker/static/js/2.e133a0f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c369656.js",
+    "static/js/2.e133a0f2.chunk.js",
+    "static/css/main.ab84150c.chunk.css",
+    "static/js/main.405df484.chunk.js"
+  ]
+}
